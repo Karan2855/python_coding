@@ -24,3 +24,4 @@ if __name__ == "__main__":
         skills = learning_Skills_add(skills,skill) 
     print(skills)
     show_skills(skills)
+        
