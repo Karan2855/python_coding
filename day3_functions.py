@@ -22,4 +22,5 @@ if __name__ == "__main__":
         if skill.lower() == "done" :
             break
         skills = learning_Skills_add(skills,skill) 
+    print(skills)
     show_skills(skills)
